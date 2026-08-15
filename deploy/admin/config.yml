@@ -1,0 +1,152 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+publish_mode: simple
+
+collections:
+  - name: "content"
+    label: "Website Content"
+    files:
+      - name: "site"
+        label: "Puppies, Dogs, Photos & Text"
+        file: "content.json"
+        description: "Edit everything on the website here, then click Publish."
+        fields:
+          # ---------- LITTERS ----------
+          - label: "Current Litters"
+            name: "litters"
+            widget: "list"
+            label_singular: "Litter"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Litter title (e.g. Sky × Loki)", name: "title", widget: "string" }
+              - { label: "Details (e.g. Born July 1, 2026 · 5 males, 2 females)", name: "meta", widget: "string" }
+              - label: "Puppies"
+                name: "pups"
+                widget: "list"
+                label_singular: "Puppy"
+                summary: "{{fields.name}} — {{fields.status}}"
+                fields:
+                  - { label: "Name", name: "name", widget: "string" }
+                  - { label: "Description", name: "detail", widget: "string", hint: "e.g. Male · Orange collar" }
+                  - { label: "Status", name: "status", widget: "select", options: ["Available", "Reserved", "Sold"], default: "Available" }
+                  - { label: "Photo", name: "img", widget: "image" }
+
+          # ---------- PARENT DOGS ----------
+          - label: "Our Sires (male dogs)"
+            name: "sires"
+            widget: "list"
+            label_singular: "Sire"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Note", name: "note", widget: "string" }
+              - { label: "Tag (e.g. Stud fee $1,200)", name: "tag", widget: "string", required: false }
+              - { label: "Photo", name: "img", widget: "image" }
+          - label: "Our Dams (female dogs)"
+            name: "dams"
+            widget: "list"
+            label_singular: "Dam"
+            summary: "{{fields.name}}"
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Note", name: "note", widget: "string" }
+              - { label: "Photo", name: "img", widget: "image" }
+
+          # ---------- PHOTO GALLERY ----------
+          - label: "Photo Gallery"
+            name: "gallery"
+            widget: "list"
+            label_singular: "Photo"
+            field: { label: "Photo", name: "image", widget: "image" }
+
+          # ---------- LIST SECTIONS ----------
+          - label: "\"Why Us\" boxes (top of page)"
+            name: "values"
+            widget: "list"
+            label_singular: "Box"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Icon (emoji)", name: "icon", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "body", widget: "text" }
+          - label: "Health testing points"
+            name: "health"
+            widget: "list"
+            label_singular: "Point"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Icon (emoji)", name: "icon", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "body", widget: "text" }
+          - label: "\"How it works\" steps"
+            name: "steps"
+            widget: "list"
+            label_singular: "Step"
+            summary: "{{fields.title}}"
+            fields:
+              - { label: "Number", name: "n", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Text", name: "body", widget: "text" }
+          - label: "\"What comes home\" checklist"
+            name: "included"
+            widget: "list"
+            label_singular: "Item"
+            field: { label: "Item", name: "item", widget: "string" }
+
+          # ---------- ALL PAGE TEXT ----------
+          - label: "Page Text & Contact Info"
+            name: "text"
+            widget: "object"
+            collapsed: true
+            fields:
+              - { label: "Top announcement bar", name: "announce", widget: "string" }
+              - { label: "Phone — shown on page", name: "phone", widget: "string" }
+              - { label: "Phone — for the click-to-call button (digits only, with +1)", name: "phoneDigits", widget: "string", hint: "e.g. +14025102493" }
+              - { label: "\"Call\" button label (top right)", name: "navCall", widget: "string" }
+              - { label: "Email address", name: "email", widget: "string" }
+
+              - { label: "Hero — small kicker", name: "heroKicker", widget: "string" }
+              - { label: "Hero — big headline", name: "heroTitle", widget: "text" }
+              - { label: "Hero — intro paragraph", name: "heroBody", widget: "text" }
+
+              - { label: "Breed section — kicker", name: "breedKicker", widget: "string" }
+              - { label: "Breed section — heading", name: "breedTitle", widget: "string" }
+              - { label: "Breed section — paragraph", name: "breedBody", widget: "text" }
+
+              - { label: "Our Dogs — kicker", name: "dogsKicker", widget: "string" }
+              - { label: "Our Dogs — heading", name: "dogsTitle", widget: "string" }
+              - { label: "Our Dogs — paragraph", name: "dogsBody", widget: "text" }
+
+              - { label: "Puppies — kicker", name: "puppiesKicker", widget: "string" }
+              - { label: "Puppies — heading", name: "puppiesTitle", widget: "string" }
+              - { label: "Puppies — pricing note", name: "pricingNote", widget: "text" }
+              - { label: "Puppies — closing note", name: "puppiesFootnote", widget: "text" }
+
+              - { label: "Health — kicker", name: "healthKicker", widget: "string" }
+              - { label: "Health — heading", name: "healthTitle", widget: "string" }
+              - { label: "Health — paragraph", name: "healthBody", widget: "text" }
+
+              - { label: "About — kicker", name: "aboutKicker", widget: "string" }
+              - { label: "About — heading", name: "aboutTitle", widget: "string" }
+              - { label: "About — first paragraph", name: "aboutBody1", widget: "text" }
+              - { label: "About — second paragraph", name: "aboutBody2", widget: "text" }
+
+              - { label: "How it works — kicker", name: "processKicker", widget: "string" }
+              - { label: "How it works — heading", name: "processTitle", widget: "string" }
+
+              - { label: "What comes home — kicker", name: "includedKicker", widget: "string" }
+              - { label: "What comes home — heading", name: "includedTitle", widget: "string" }
+
+              - { label: "Gallery — kicker", name: "galleryKicker", widget: "string" }
+              - { label: "Gallery — heading", name: "galleryTitle", widget: "string" }
+
+              - { label: "Bottom banner — heading", name: "ctaTitle", widget: "string" }
+              - { label: "Bottom banner — paragraph", name: "ctaBody", widget: "text" }
+              - { label: "Bottom banner — small note", name: "ctaFootnote", widget: "text" }
+
+              - { label: "Footer — blurb", name: "footerBlurb", widget: "text" }
+              - { label: "Footer — address line", name: "footerAddr", widget: "string" }
