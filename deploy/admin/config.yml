@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-media_folder: "images/uploads"
+media_folder: "deploy/images/uploads"
 public_folder: "/images/uploads"
 publish_mode: simple
 
@@ -12,7 +12,7 @@ collections:
     files:
       - name: "site"
         label: "Puppies, Dogs, Photos & Text"
-        file: "content.json"
+        file: "deploy/content.json"
         description: "Edit everything on the website here, then click Publish."
         fields:
           # ---------- LITTERS ----------
