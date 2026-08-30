@@ -99,28 +99,10 @@
           "status": "Available"
         },
         {
-          "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784857221390-J9LKIS0TW2F5AJQFXH7W/0F8A4377.JPG?format=750w",
-          "name": "Tan Collar Male",
-          "detail": "Male · Tan collar",
-          "status": "Available"
-        },
-        {
-          "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784855286297-WWLANFR0XDIV22XNL79K/0F8A4336.JPG?format=750w",
-          "name": "White Male",
-          "detail": "Male · Reserved · Ana Cruz",
-          "status": "Reserved"
-        },
-        {
           "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784857314567-ZYE9X2NJL6OXGRH099OU/0F8A4395.JPG?format=750w",
           "name": "White Female",
           "detail": "Female · No collar",
           "status": "Available"
-        },
-        {
-          "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784857386617-VEAJA1RDMRWNDDRF8MIH/0F8A4404.JPG?format=750w",
-          "name": "Lavender Female",
-          "detail": "Female · Lavender collar",
-          "status": "Reserved"
         }
       ]
     },
