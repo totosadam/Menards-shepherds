@@ -123,16 +123,10 @@
           "status": "Available"
         },
         {
-          "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784405895962-42G2D5IYA3EP1AV0PEU5/0F8A4273.JPG?format=750w",
-          "name": "Yellow Collar Male",
-          "detail": "Male · Congrats, Ibrahim Fornah!",
-          "status": "Sold"
-        },
-        {
           "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784406208185-XJYXNQ9KIYFM8RPTU05V/0F8A4300.JPG?format=750w",
           "name": "Pink Collar Female",
-          "detail": "Female · Congrats, L. Lovell!",
-          "status": "Sold"
+          "detail": "Female · Available",
+          "status": "Available"
         }
       ]
     }
