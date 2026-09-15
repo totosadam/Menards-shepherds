@@ -1,0 +1,262 @@
+{
+  "text": {
+    "announce": "Now booking our 2026 litters — call or text (402) 510-2493 to join the waitlist.",
+    "navCall": "Call (402) 510-2493",
+    "phone": "(402) 510-2493",
+    "phoneDigits": "+14025102493",
+    "email": "menardsgermanshepherds@gmail.com",
+    "heroKicker": "Large, Old-Fashioned Shepherds",
+    "heroTitle": "Big-boned shepherds, raised with heart in Nebraska.",
+    "heroBody": "We're a small family breeder in Omaha, Nebraska raising large, old-fashioned, straight-backed German Shepherds — smart, loyal, and protective companions, born and loved right in our home. Every breeding dog is PennHip, DM, and Embark tested.",
+    "breedKicker": "Why an Old-Fashioned Shepherd",
+    "breedTitle": "The shepherd, the way they used to be.",
+    "breedBody": "Our dogs are the large, old-fashioned, straight-backed German Shepherds many of us grew up with — big-boned, above AKC standard size, and built for a long, sound life. Exceptionally smart, deeply loyal, and gentle with children, they are loving family companions and natural protectors when it counts. Every puppy is worked with from birth until the day they go home.",
+    "dogsKicker": "Our Foundation Dogs",
+    "dogsTitle": "Sires & dams behind every litter",
+    "dogsBody": "Started from wonderful bloodlines out of Minterns and Royalair's German Shepherds. Every one of our breeding dogs is PennHip, DM, and Embark tested — pedigrees and results available on request.",
+    "puppiesKicker": "Current Litters",
+    "puppiesTitle": "Puppies looking for their family",
+    "pricingNote": "2026 pricing: Males $2,200 · Females $2,000. $200 discount for Military, EMT, Fire & Police. Call or text to reserve.",
+    "puppiesFootnote": "New litters arrive throughout the year and reservations move quickly. Don't see the one? Give us a call and we'll keep you posted on upcoming pups, collars, and colors.",
+    "healthKicker": "Bred for Health",
+    "healthTitle": "Testing behind every puppy 🩺",
+    "healthBody": "A big, healthy shepherd starts with the parents. Every dog we breed is fully health-tested, and every litter is temperament-scored before pups go home — so you know exactly what you're bringing into your family.",
+    "aboutKicker": "Our Story",
+    "aboutTitle": "A family kennel in Omaha, Nebraska.",
+    "aboutBody1": "I'm Dawn Menard. I grew up raising German Shepherds and Shelties — my shepherds were my best friends and my protectors. After stepping away for about 25 years to raise my family, I'm thrilled to be raising these dogs again, this time with my four kids, ages 10 to 19, right alongside me.",
+    "aboutBody2": "Our puppies are raised underfoot in our home and worked with from birth until the day they leave. Every one goes home microchipped, with a chew toy, a martingale collar, and starter food — and I'm always here down the road for any question you may have. These are big-boned, straight-backed, wonderful family dogs, and I'd love to help you find yours.",
+    "processKicker": "Bringing One Home",
+    "processTitle": "How it works",
+    "includedKicker": "Go-Home Day",
+    "includedTitle": "What comes home with every pup",
+    "galleryKicker": "Puppy Album",
+    "galleryTitle": "Moments from our home",
+    "ctaTitle": "Ready to meet your new best friend?",
+    "ctaBody": "Call or text Dawn any time to ask about available puppies, upcoming litters, or just to say hello.",
+    "ctaFootnote": "Reserve with PayPal or Venmo (@Dawn-Menard-9). All puppies microchipped before leaving.",
+    "footerBlurb": "A small family breeder in Omaha, Nebraska raising large, old-fashioned, straight-backed German Shepherds — health-tested, home-raised, and bred to be your family's best friend and protector.",
+    "footerAddr": "Dawn Menard · Omaha, NE 68152"
+  },
+  "values": [
+    {
+      "icon": "🏡",
+      "title": "Home & Family Raised",
+      "body": "Born in our home and raised underfoot around our four kids — never in a kennel — so pups come to you confident and well-socialized."
+    },
+    {
+      "icon": "🩺",
+      "title": "Health-Tested Parents",
+      "body": "Every breeding dog is PennHip, DM, and Embark tested for sound hips, healthy genetics, and lasting structure."
+    },
+    {
+      "icon": "📏",
+      "title": "Big-Boned & Straight-Backed",
+      "body": "Old-fashioned German Shepherds, above AKC standard size, bred for bone, temperament, and health."
+    },
+    {
+      "icon": "🦴",
+      "title": "Microchipped & Supported",
+      "body": "Every pup leaves microchipped with a chew toy, martingale collar, and starter food — plus lifetime breeder support."
+    }
+  ],
+  "sires": [
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/470c85f8-e45d-4450-a790-3422279b6691/IMG_4371.JPG?format=900w",
+      "name": "Ruger",
+      "note": "Co-owned stud, located in Omaha, NE. PennHip & Embark tested.",
+      "tag": "Stud fee $1,200"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/7de6bb18-ad13-4afd-a81e-daf66cde5c65/IMG_6060.JPG?format=900w",
+      "name": "Ranger",
+      "note": "Menards Legendary Ranger. PennHip & Embark tested.",
+      "tag": "Stud fee $1,200"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/fa068f64-abfe-4490-b9a4-833cdf904683/IMG_8615.JPG?format=900w",
+      "name": "Dorian",
+      "note": "Menards Legendary Dorian. PennHip & Embark tested.",
+      "tag": "Stud fee $1,200"
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1601150294918-BM0I59F6BV8DYP911W6N/IMG_9991.JPG?format=900w",
+      "name": "Loki",
+      "note": "Menards Legendary Loki. PennHip & Embark tested.",
+      "tag": "Stud fee $1,200"
+    }
+  ],
+  "dams": [
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/a99fecaa-5fa5-4319-a0c1-68e325050001/IMG_3052.JPG?format=800w",
+      "name": "Sky",
+      "note": "Menards Legendary Sky. PennHip tested."
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/3f22a1e7-16b9-4879-afa8-2c78ae74e9ea/IMG_2407.JPG?format=800w",
+      "name": "Knicki",
+      "note": "Royalair's Knightingale. PennHip & Embark tested."
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/e48bf3c9-ae4c-487c-b087-35bdd81cd6e5/IMG_9800.JPG?format=800w",
+      "name": "Freya",
+      "note": "Menards Legendary Freya. PennHip & Embark tested."
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/59cce9cf-10b0-4fb6-af93-f54b61bb67ed/IMG_6245.JPG?format=800w",
+      "name": "Ava",
+      "note": "PennHip & Embark tested."
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/c66a14cd-520c-4f32-9e12-2e2e988140b9/IMG_6261.JPG?format=800w",
+      "name": "Rho",
+      "note": "PennHip tested."
+    },
+    {
+      "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/0c7879e9-f5d1-46d3-9f5a-34a4cf33fcfe/IMG_6274.JPG?format=800w",
+      "name": "Stormy",
+      "note": "PennHip tested."
+    }
+  ],
+  "litters": [
+    {
+      "title": "Sky × Loki",
+      "meta": "Born July 1, 2026 · 5 males, 2 females",
+      "pups": [
+        {
+          "img": "/images/uploads/no-collar-male-sky-loki.webp",
+          "name": "Black & Tan Male",
+          "detail": "Male · No collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/orange-collar-male-sky-loki.webp",
+          "name": "Orange Collar Male",
+          "detail": "Male · Orange collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/lime-green-male-sky-loki.webp",
+          "name": "Lime Green Male",
+          "detail": "Male · Lime green collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/tan-collar-male-sky-loki.webp",
+          "name": "Tan Collar Male",
+          "detail": "Male · Tan collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/white-male-sky-loki.webp",
+          "name": "White Male",
+          "detail": "Male · Reserved · Ana Cruz",
+          "status": "Reserved"
+        },
+        {
+          "img": "/images/uploads/white-female-sky-loki.webp",
+          "name": "White Female",
+          "detail": "Female · No collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/lavender-female-sky-loki.webp",
+          "name": "Lavender Female",
+          "detail": "Female · Lavender collar",
+          "status": "Reserved"
+        }
+      ]
+    },
+    {
+      "title": "Freya × Ranger",
+      "meta": "Born June 13, 2026 · 3 males, 3 females",
+      "pups": [
+        {
+          "img": "/images/uploads/no-collar-male-freya-ranger.webp",
+          "name": "Gray Male",
+          "detail": "Male · No collar",
+          "status": "Available"
+        },
+        {
+          "img": "/images/uploads/green-collar-male-freya-ranger.webp",
+          "name": "Green Collar Male",
+          "detail": "Male · Green collar",
+          "status": "Available"
+        },
+        {
+          "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784405895962-42G2D5IYA3EP1AV0PEU5/0F8A4273.JPG?format=750w",
+          "name": "Yellow Collar Male",
+          "detail": "Male · Congrats, Ibrahim Fornah!",
+          "status": "Sold"
+        },
+        {
+          "img": "/images/uploads/pink-collar-female-freya-ranger.webp",
+          "name": "Pink Collar Female",
+          "detail": "Female · Congrats, L. Lovell!",
+          "status": "Sold"
+        }
+      ]
+    }
+  ],
+  "health": [
+    {
+      "icon": "🦴",
+      "title": "PennHip Tested",
+      "body": "Every breeding dog is PennHip evaluated for sound, healthy hips and lasting structure."
+    },
+    {
+      "icon": "🧬",
+      "title": "DM Tested",
+      "body": "Screened for Degenerative Myelopathy so litters are bred away from the disease."
+    },
+    {
+      "icon": "🔬",
+      "title": "Embark Genetic Testing",
+      "body": "Full Embark panel on our dogs for genetic health and verified pedigree."
+    },
+    {
+      "icon": "📋",
+      "title": "Volhard Temperament Test",
+      "body": "Every puppy is Volhard aptitude-tested at 6 weeks to help match you with the right pup."
+    }
+  ],
+  "steps": [
+    {
+      "n": "1",
+      "title": "Reach Out",
+      "body": "Call or text Dawn to introduce yourself and hear about current and upcoming litters."
+    },
+    {
+      "n": "2",
+      "title": "Meet the Pups",
+      "body": "Visit in person or on a live video call to meet the puppies and find your match."
+    },
+    {
+      "n": "3",
+      "title": "Reserve",
+      "body": "A deposit (PayPal or Venmo) holds your pup while they finish growing and testing."
+    },
+    {
+      "n": "4",
+      "title": "Welcome Home",
+      "body": "Take home a healthy, microchipped, well-socialized shepherd — and join our family."
+    }
+  ],
+  "included": [
+    "Microchip registered before leaving",
+    "Martingale collar & a favorite chew toy",
+    "Starter bag of the puppy food they're on",
+    "Volhard temperament test results (done at 6 weeks)",
+    "Health-tested parents: PennHip, DM & Embark",
+    "Lifetime breeder support — always a call away"
+  ],
+  "gallery": [
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1775161512317-4W3UIP77XHW8BW4WG0W6/IMG_3072.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1782609509452-JW8PBAA3MICDKOXI44Y3/0F8A3923.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784406602938-WKZADS95T2ME73I6VDG7/0F8A4152.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784406917499-IJU6PBGH1YJ472O5UUNZ/0F8A4178.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1781374902551-BWKWNOFSSFTD3PS5Q08T/IMG_9797.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784407161599-DUSZ8JF88V6PMAUGYRXO/0F8A4185.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784407285292-01Q3CVKSEYUO3GFYTBC6/0F8A4210.JPG?format=750w",
+    "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784407506677-2NWL9HN6O2D5BJV951SF/0F8A4236.JPG?format=750w"
+  ]
+}
