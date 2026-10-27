@@ -126,43 +126,43 @@
           "img": "/images/uploads/no-collar-male-sky-loki.webp",
           "name": "Black & Tan Male",
           "detail": "Male · No collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/orange-collar-male-sky-loki.webp",
           "name": "Orange Collar Male",
           "detail": "Male · Orange collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/lime-green-male-sky-loki.webp",
           "name": "Lime Green Male",
           "detail": "Male · Lime green collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/tan-collar-male-sky-loki.webp",
           "name": "Tan Collar Male",
           "detail": "Male · Tan collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/white-male-sky-loki.webp",
           "name": "White Male",
           "detail": "Male · Reserved · Ana Cruz",
-          "status": "Reserved"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/white-female-sky-loki.webp",
           "name": "White Female",
           "detail": "Female · No collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/lavender-female-sky-loki.webp",
           "name": "Lavender Female",
           "detail": "Female · Lavender collar",
-          "status": "Reserved"
+          "status": "Sold"
         }
       ]
     },
@@ -174,13 +174,13 @@
           "img": "/images/uploads/no-collar-male-freya-ranger.webp",
           "name": "Gray Male",
           "detail": "Male · No collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "/images/uploads/green-collar-male-freya-ranger.webp",
           "name": "Green Collar Male",
           "detail": "Male · Green collar",
-          "status": "Available"
+          "status": "Sold"
         },
         {
           "img": "https://images.squarespace-cdn.com/content/v1/52c07476e4b0330e456949c4/1784405895962-42G2D5IYA3EP1AV0PEU5/0F8A4273.JPG?format=750w",
